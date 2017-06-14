@@ -1,0 +1,14 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Petr Prchal <petr.prchal@foodora.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^3.0.6",
+    "typescript": "^2.3.4"
+  },
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  }
+}
